@@ -1,0 +1,62 @@
+[
+  {
+    "id": "058cdb92-4345-4e69-9dcc-c6ac8336ce48",
+    "nome": "Cerveja Pilsen Cristal Baden Baden 600ml",
+    "preco": "R$ 12,98"
+  },
+  {
+    "id": "3e2769bc-a7db-4a37-a705-3dabe84c9448",
+    "nome": "Cerveja Golden Ale Baden Baden 600ml",
+    "preco": "R$ 12,98"
+  },
+  {
+    "id": "bdaf553c-4546-47c4-b497-f4167aa11b30",
+    "nome": "Cerveja Serramalte Lata 350ml",
+    "preco": "R$ 3,48"
+  },
+  {
+    "id": "f0b53d01-7c35-4ae8-93c2-98bd9e4bbcc7",
+    "nome": "Cerveja Heineken Lata 473ml",
+    "preco": "R$ 5,78"
+  },
+  {
+    "id": "2143d6bc-69fe-45cc-8538-ce60c1cd55cb",
+    "nome": "Cerveja Antarctica Original Garrafa Descartável 600ml",
+    "preco": "R$ 7,98"
+  },
+  {
+    "id": "002b1620-b656-497d-8166-c493c8d10886",
+    "nome": "Cerveja Argentina Amber Lager Patagonia Lata 473ml",
+    "preco": "R$ 6,18"
+  },
+  {
+    "id": "d6227327-5e9d-4dc8-aacf-9a036ef04907",
+    "nome": "Cerveja Dado Bier Leve 25 Anos Lata 350ml",
+    "preco": "R$ 2,48"
+  },
+  {
+    "id": "79438886-d01b-4696-96d5-4128f716efb7",
+    "nome": "Cerveja Budweiser C/15 Unidades 310ml",
+    "preco": "R$ 47,85"
+  },
+  {
+    "id": "67f510dc-918c-4890-882e-41f280d47ddc",
+    "nome": "Cerveja Duplo Malte Brahma C/15 Unidades 310ml",
+    "preco": "R$ 38,85"
+  },
+  {
+    "id": "6a59123d-a7a3-4934-a287-01311476ccd8",
+    "nome": "Cerveja Amstel Lata 473ml",
+    "preco": "R$ 4,19"
+  },
+  {
+    "id": "b016b83c-4c2e-46af-b4e5-88b42a159377",
+    "nome": "Cerveja Ribeirão Lager Colorado 600ml",
+    "preco": "R$ 12,98"
+  },
+  {
+    "id": "6e3f2cf5-72ac-439b-85f2-525b913ef3f7",
+    "nome": "Cerveja Pilsen Eisenbahn Garrafa Descartável 600ml",
+    "preco": "R$ 8,28"
+  }
+]
