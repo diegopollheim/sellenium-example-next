@@ -35,10 +35,9 @@ export default async function handler(req, res) {
       } else {
         console.log("Arquivo salvo com sucesso!");
       }
-    });
+    });    
+    res.status(200).send(produtos);
   });
 
-  // Fecha o navegador
-//   driver.close();
-  res.status(200).json({ name: "John Doe" });
+
 }
